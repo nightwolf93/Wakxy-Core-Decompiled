@@ -1,4 +1,4 @@
 Wakxy-Core-Decompiled
 =====================
 
-Contient l'ensemble des core.jar décompilé des clients Wakfu
+Contient le core.jar par version décompilé du jeux Wakfu
